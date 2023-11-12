@@ -16,6 +16,10 @@
     "react": "18.2.0",
     "react-native": "0.72.6"
   },
+  // package.json
+  "scripts": {
+    "generate:screen": "node scripts/generateScreen.js"
+  },
   "devDependencies": {
     "@babel/core": "^7.20.0"
   },
