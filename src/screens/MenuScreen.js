@@ -19,7 +19,6 @@ const MenuScreen = ({ navigation }) => {
         onPress={() => handleReserva('Opción 2')}
       />
 
-      {/* Puedes agregar más botones de reserva para otras opciones aquí */}
     </View>
   );
 
